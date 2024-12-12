@@ -1,0 +1,13 @@
+{
+    "people": [
+        {"id": 1, "name": "jacob plumb", "age": 34, "address": 1},
+        {"id": 2, "name": "deema hagehassan", "age": 30, "address": 1},
+        {"id": 3, "name": "jon plumb", "age": 35, "address": 2},
+        {"id": 4, "name": "marie plumb", "age": 31, "address": 3}
+    ],
+    "addresses": [
+        {"id": 1, "street": "prairie view rd", "city": "Ann Arbor", "state": "MI"},
+        {"id": 2, "street": "elizabeth drive", "city": "Trenton", "state": "MI"},
+        {"id": 3, "street": "colony circle", "city": "Ypsi", "state": "MI"}
+    ]
+}
